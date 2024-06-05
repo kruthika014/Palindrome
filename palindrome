@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<stdlib.h>
+
 int main() {
   int n, reversed = 0, remainder, original;
     printf("Enter an integer: ");
